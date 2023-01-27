@@ -7,3 +7,4 @@ int main(void)
 	printf("ASCII code %d is %c.\n", ch, ch);
 	return 0;
 }
+}
