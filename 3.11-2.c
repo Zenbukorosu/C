@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 int main(void)
 {
 	int ch;
@@ -6,5 +6,4 @@ int main(void)
 	scanf("%d", &ch);
 	printf("ASCII code %d is %c.\n", ch, ch);
 	return 0;
-}
 }
