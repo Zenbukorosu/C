@@ -11,7 +11,7 @@ int main(void)
         printf("On %d week, Mr.Rabnud have %d friends.\n", week, people);
         week++;
     } while (people < Dumbar_number);
-    printf("After %d weeks, Mr.Rabnud will have %d friends.", week, people);
+    printf("After %d weeks, Mr.Rabnud will have %d friends.", week - 1, people);
 
     return 0;
 }
