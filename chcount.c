@@ -13,6 +13,5 @@ int main()
         };
     };
     printf("There are %d nou-quote characters.\n", charcount);
-
     return 0;
 }

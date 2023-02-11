@@ -24,6 +24,5 @@ int main(void)
         printf("Please enter next integer to analysis(q to quit):\n");
     };
     printf("Done.");
-
     return 0;
 }
